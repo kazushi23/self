@@ -1,0 +1,125 @@
+# Golang
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go build output
+bin/
+build/
+dist/
+
+# Go modules
+vendor/
+
+# Generated files
+*.out
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*.local
+
+# Coverage files
+coverage.*
+*.coverprofile
+
+#js
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Production builds
+dist/
+build/
+.next/
+out/
+.temp/
+.temp/
+.vite/
+
+# Cache
+.cache/
+.next/cache/
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# Testing
+coverage/
+
+# python
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# Dependencies
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+
+# Build output
+build/
+dist/
+develop-eggs/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*.local
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing
+.coverage
+*.cover
+htmlcov/
